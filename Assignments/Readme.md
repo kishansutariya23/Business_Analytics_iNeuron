@@ -1,4 +1,4 @@
-# iNeuron Business Analytics Assignment (Foundation Level)
+# iNeuron Business Analytics Assignment
 
 1) Excel
 2) SQL
