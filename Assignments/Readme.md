@@ -5,7 +5,9 @@
 3) PYTHON
 4) POWER BI
 5) TABLEAU
+6) Statistics
 
 ------------------------
-[Theory Assignments](./1 Basic Assignments)
-[Hands On Assignments](./2 Assignments)
+[Theory Assignments](./1%20Basic%20Assignments/)
+
+[Hands On Assignments](./2%20Assignments/)
